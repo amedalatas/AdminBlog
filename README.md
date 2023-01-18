@@ -1,7 +1,11 @@
 # AdminBlog
 PHP kullanarak XAMPP yardımıyla kadın ürünleri satış mağazası projesi yaptım.
 Öncelikle Admin Paneli Girişi Yaptıktan sonra anasayfaya yönlendiriliyoruz ardından yönetici olduğumuzdan dolayı ürün ekleme silme vs. işlemleri yapabiliyoruz elimizdeki ürün stoğunu düzenleyebiliyoruz.
-Admin Bilgilerimizi saklandığı yer 
+Admin Bilgilerimizi saklandığı yer de bulunmaktadır(Şifre Hariç) Güvenlik için
+Giriş Bilgileri=  Kullanici Adi=Admin
+                  Password=123456
+Projedeki Şifreyi değiştirip kendinize uyarlamak için ayar.php kısmına giriş yapıpı $user ve $pass kısmını değiştirmeniz yeterli olacaktır.
+
 
 
 ![image](https://user-images.githubusercontent.com/91666872/213162860-15caf0b9-bbda-4412-af6b-da410fbb06d0.png)
